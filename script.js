@@ -105,10 +105,10 @@ const questions = [
     ]
   },
   {
-    question: 'What is 4 * 2?',
+    question: 'What is function?',
     answers: [
-      { text: '6', correct: false },
-      { text: '8', correct: true }
+      { text: 'A line of code used to repeat a useful action.', correct: true },
+      { text: 'A line of code meant to add fun and pizzaz to your Javascript File', correct: false }
     ]
   }
 ]

@@ -108,7 +108,9 @@ const questions = [
     question: 'What is function?',
     answers: [
       { text: 'A line of code used to repeat a useful action.', correct: true },
-      { text: 'A line of code meant to add fun and pizzaz to your Javascript File', correct: false }
+      { text: 'A line of code meant to add fun and pizzaz to your JavaScript File.', correct: false },
+      { text: 'A line of code used solely to add visual flair from JavaScript.', correct: false },
+      { text: 'A neat application that does the code writing for you.', correct: false }
     ]
   }
 ]

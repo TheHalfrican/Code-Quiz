@@ -81,7 +81,9 @@ const questions = [
     question: 'What is the symbol to call an ID?',
     answers: [
       { text: '#', correct: true },
-      { text: '%', correct: false }
+      { text: '%', correct: false },
+      {text: '@', correct: false },
+      {text : '=', correct: false }
     ]
   },
   {
@@ -110,3 +112,4 @@ const questions = [
     ]
   }
 ]
+
